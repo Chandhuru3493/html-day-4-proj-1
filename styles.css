@@ -1,0 +1,24 @@
+#header{
+    background-color: bisque;
+}
+
+#flex-container{
+    display: flex;
+    background-color: dimgray;
+}
+#side{
+    flex: 30%;
+    background-color: darkgrey;
+    padding-top: 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+#main{
+    flex:70%;
+    background-color: bisque(253, 254, 253);
+    text-align: center;
+}
+#footer{
+    background-color: lightslategray;
+    color: aliceblue;
+}
